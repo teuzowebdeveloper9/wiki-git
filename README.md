@@ -1,12 +1,67 @@
-# React + Vite
+# 🔍 GitHub Repository Finder
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Uma aplicação React moderna para buscar e visualizar repositórios do GitHub de forma elegante.
 
-Currently, two official plugins are available:
+## 📋 Sobre o Projeto
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Este projeto permite aos usuários:
+- Buscar repositórios do GitHub usando nome do usuário e nome do repositório
+- Visualizar informações básicas do repositório encontrado
+- Acessar diretamente o repositório através de um link
+- Interface moderna e responsiva com tema escuro
 
-## Expanding the ESLint configuration
+## 🛠️ Tecnologias Utilizadas
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React.js
+- Styled Components
+- GitHub API
+- Vite
+
+## 📸 Screenshots
+
+### Tela Inicial
+![Tela Inicial](./screenshots/screenshot1.png)
+*Interface inicial limpa e minimalista*
+
+### Exemplo de Busca - Linux
+![Busca Linux](./screenshots/screenshot2.png)
+*Busca do famoso repositório Linux do Torvalds*
+
+### Exemplo de Repositório Encontrado
+![Repositório Encontrado](./screenshots/screenshot3.png)
+*Visualização detalhada do repositório encontrado*
+
+## 🚀 Como Executar
+
+1. Clone o repositório:
+```bash
+git clone https://github.com/teuzowebdeveloper9/wiki-git.git
+```
+
+2. Instale as dependências:
+```bash
+npm install
+```
+
+3. Execute o projeto:
+```bash
+npm run dev
+```
+
+4. Acesse `http://localhost:5173` no seu navegador
+
+## 💡 Funcionalidades
+
+- **Busca de Repositórios**: Digite o nome do usuário e do repositório para encontrar
+- **Visualização de Detalhes**: Veja o nome do dono e do repositório
+- **Link Direto**: Acesse o repositório no GitHub com um clique
+- **Tratamento de Erros**: Mensagens claras quando um repositório não é encontrado
+- **Interface Responsiva**: Design adaptável a diferentes tamanhos de tela
+
+## 📝 Licença
+
+Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+## 👤 Autor
+
+Feito com ❤️ por [teuzowebdeveloper9](https://github.com/teuzowebdeveloper9)
