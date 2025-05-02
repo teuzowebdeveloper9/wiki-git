@@ -17,6 +17,10 @@ Este projeto permite aos usuários:
 - GitHub API
 - Vite
 
+## curiosidade
+
+usei styled components apenas para meu git grafic de linguagens de programação não ficasse muito html css skksksksksk
+
 ## 📸 Screenshots
 
 ### Tela Inicial
