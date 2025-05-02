@@ -84,4 +84,4 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## 👤 Autor
 
-Feito com ❤️ por [teuzowebdeveloper9](https://github.com/teuzowebdeveloper9)
+Feito com ❤ e esforço por [teuzowebdeveloper9](https://github.com/teuzowebdeveloper9)
