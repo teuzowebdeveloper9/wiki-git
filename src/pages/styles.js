@@ -15,13 +15,13 @@ export default createGlobalStyle`
     justify-content: center; 
     align-items: center;    
     min-height: 100vh;
-    background: linear-gradient(45deg, rgb(32, 17, 247), rgb(31, 10, 70));
+    background: linear-gradient(45deg, black, rgb(32, 11, 90));
     color: rgb(255, 255, 255);
   }
   .box {
     margin-top: 110px;
     background: linear-gradient(45deg, rgb(48, 22, 77), rgb(14, 14, 126), rgb(22, 12, 12));
-    height: 400px;
+    height: 450px;
     width: 550px;
   }
   .gitzin {
