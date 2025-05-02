@@ -36,19 +36,19 @@ Este projeto permite aos usuários:
 ### agora com um repositorio meu 
 
 ![Captura de tela 2025-05-01 215110](https://github.com/user-attachments/assets/3f53d673-8d85-4cd7-9cc3-b22e03dcb80e)
-*busca pelo meu  repositorio two features on your terminal
+*busca pelo meu  repositorio two features on your terminal*
 
 ### encontrado novamente
 
 ![Captura de tela 2025-05-01 215130](https://github.com/user-attachments/assets/2fe5f6bb-2956-4739-9a00-4e64e9ae4bff)
 
-*o raio caindo duas vezes no mesmo lugar 
+*o raio caindo duas vezes no mesmo lugar*
 
 ### meu repositorio (esse projeto é bem legal )
 
 ![Captura de tela 2025-05-01 215154](https://github.com/user-attachments/assets/e96ddf30-3ccf-48d2-ae14-ba8d3975da2f)
 
-*sucesso
+*sucesso*
 
 
 ## 🚀 Como Executar
