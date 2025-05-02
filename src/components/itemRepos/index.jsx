@@ -1,15 +1,18 @@
-import React from "react";
+import React from 'react';
+import { ItemContainer } from './styles';
 
-import {ItemContainer} from './styles'
-function Itemrepo(){
-    return(
-        <ItemContainer>
-       <h3>teuzowebdeveloper9</h3>
-        <p>api-champions</p>
-        <h4>veja esse projeto 👇</h4>
-    <a href="https://github.com/teuzowebdeveloper9/api-champions">veja esse repositorio incrivel</a>
-        </ItemContainer>
-    )
-}
+const ItemRepo = ({ repo }) => {
+  if (!repo) return null;
 
-export default Itemrepo
+  return (
+    <ItemContainer>
+      <h3>{repo.owner.login}</h3>
+      <p>{repo.name}</p>
+      <a href={repo.html_url} target="_blank" rel="noopener noreferrer">
+        Ver Repositório
+      </a>
+    </ItemContainer>
+  );
+};
+
+export default ItemRepo;

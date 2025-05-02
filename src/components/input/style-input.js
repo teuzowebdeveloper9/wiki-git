@@ -9,7 +9,7 @@ export const InputContainer = styled.div`
     margin-bottom: 20px;
 
     input {
-        margin: 20px 0;
+        margin: 10px 0;
         border: 1px solid #FAFAFA;
         border-radius: 20px;
         height: 42px;
@@ -18,6 +18,10 @@ export const InputContainer = styled.div`
         background: black;
         border: 0;
         padding: 0 16px;
+
+        &::placeholder {
+            color: #FAFAFA80;
+        }
     }
 
     button {
@@ -28,9 +32,17 @@ export const InputContainer = styled.div`
         color: white;
         border: 1px solid #FAFAFA;
         cursor: pointer;
+        margin-top: 10px;
         
         &:hover {
             background-color: #333;
         }
+    }
+
+    .error {
+        color: #ff4444;
+        margin-top: 10px;
+        font-family: "Poppins", sans-serif;
+        font-size: 14px;
     }
 `
