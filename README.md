@@ -74,6 +74,10 @@ npm run dev
 
 4. Acesse `http://localhost:5173` no seu navegador
 
+## acesse esse projeto online
+
+![deploy na vercel ](https://wiki-git-six.vercel.app/)
+
 ## 💡 Funcionalidades
 
 - **Busca de Repositórios**: Digite o nome do usuário e do repositório para encontrar
